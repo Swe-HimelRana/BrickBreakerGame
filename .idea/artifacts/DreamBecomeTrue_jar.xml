@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DreamBecomeTrue:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DreamBecomeTrue_jar</output-path>
+    <root id="archive" name="DreamBecomeTrue.jar">
+      <element id="module-output" name="DreamBecomeTrue" />
+    </root>
+  </artifact>
+</component>
